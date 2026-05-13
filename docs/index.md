@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "ComputerNetWork"
-  text: "This is a notebook for learning computer networks. It can help me review knowledge later and also help you learn computer networks quickly."
-  tagline: My great project tagline
+  text: "This is a notebook for learning computer networks."
   actions:
     - theme: brand
       text: Markdown Examples

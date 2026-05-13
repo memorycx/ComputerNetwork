@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一章/1.1 什么是Internet.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 什么是Internet"
+              "title": "index"
             }
           }
         ]
@@ -197,12 +197,20 @@
   },
   "active": "29d8353bcdb6ada9",
   "lastOpenFiles": [
+    "Pasted image 20260513204128.png",
+    "docs/Pasted image 20260513204128.png",
+    "markdown-examples.md",
+    "docs/markdown-examples.md",
     "index.md",
+    "docs/index.md",
+    "docs/api-examples.md",
     "第一章/1.1 什么是Internet.md",
+    "docs/第一章/1.1 什么是Internet.md",
+    "docs/第一章",
+    "docs",
+    "新建文件夹",
     "第一章.md",
     "第一章",
-    "markdown-examples.md",
-    "Pasted image 20260513204128.png",
     "api-examples.md",
     "欢迎.md"
   ]
