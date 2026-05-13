@@ -1,26 +1,27 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
+
 export default defineConfig({
-  title: "ComputerNetWork",
-  description: "This is a notebook for learning computer networks. It can help me review knowledge later and also help you learn computer networks quickly.",
+  title: "计算机网络笔记",
+  description: "学习记录",
+  
+  // 告诉 VitePress 你的源文件都在 docs 目录下
+  srcDir: './docs',
+
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
-
     sidebar: [
       {
-        text: 'Examples',
+        text: '第一章',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          // 路径要写完整：/第一章/文件名
+          { text: '1.1 什么是Internet', link: '/第一章/1.1 什么是Internet' },
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
