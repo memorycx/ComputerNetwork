@@ -80,6 +80,12 @@ This is a dangerous warning.
 This is a details block.
 :::
 
+
+图下的具体的效果
+
+
+![[Pasted image 20260513204128.png]]
+
 ## More
 
 Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
