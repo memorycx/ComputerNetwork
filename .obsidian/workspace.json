@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/第一章/前言.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5f23a3cc73dbde45",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "docs/第一章/tem.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "tem"
+              "title": "前言"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +196,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5f23a3cc73dbde45",
+  "active": "29d8353bcdb6ada9",
   "lastOpenFiles": [
     "docs/第一章/1.1 什么是Internet.md",
+    "docs/第一章/前言.md",
     "docs/第一章/tem.svg",
+    "docs/第一章/svg",
     "docs/第一章/tem.md",
     "node_modules/@excalidraw/excalidraw/README.md",
     "node_modules/dayjs/plugin/preParsePostFormat.d.ts",
@@ -224,7 +213,6 @@
     "node_modules/dayjs/plugin/arraySupport.d.ts",
     "node_modules/dayjs/esm/locale/zh-hk.js",
     "node_modules/dayjs/locale/ur.js",
-    "node_modules/mermaid/dist/diagrams/xychart/chartBuilder/components/plot/linePlot.d.ts",
     "node_modules/@excalidraw/mermaid-to-excalidraw/node_modules/nanoid/README.md",
     "node_modules/@radix-ui/react-roving-focus/node_modules/@radix-ui/react-compose-refs/README.md",
     "node_modules/vite-plugin-excalidraw/README.md",
