@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "5f23a3cc73dbde45",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "docs/第一章/Drawing 2026-05-14 13.54.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-14 13.54.26.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,17 +209,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "29d8353bcdb6ada9",
+  "active": "5f23a3cc73dbde45",
   "lastOpenFiles": [
+    "docs/第一章/1.1 什么是Internet.md",
+    "docs/第一章/Drawing 2026-05-14 13.54.26.excalidraw.md",
+    "docs/index.md",
+    "docs/Excalidraw",
     "Pasted image 20260513204128.png",
     "docs/Pasted image 20260513204128.png",
     "markdown-examples.md",
     "docs/markdown-examples.md",
     "index.md",
-    "docs/index.md",
     "docs/api-examples.md",
     "第一章/1.1 什么是Internet.md",
-    "docs/第一章/1.1 什么是Internet.md",
     "docs/第一章",
     "docs",
     "新建文件夹",
