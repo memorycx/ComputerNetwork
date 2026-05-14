@@ -197,6 +197,8 @@
   },
   "active": "29d8353bcdb6ada9",
   "lastOpenFiles": [
+    "docs/第一章/1.2.txt",
+    "docs/第一章/新建 文本文档.txt",
     "node_modules/@shikijs/types/dist/index.mjs",
     "node_modules/@shikijs/types/dist/index.d.mts",
     "node_modules/@shikijs/types/dist/index.d.ts",
@@ -206,8 +208,6 @@
     "node_modules/dequal/dist/index.js",
     "node_modules/dequal/dist",
     "node_modules/shiki/dist/types/wasm-dynamic.d.mts",
-    "node_modules/shiki/dist/types/index.d.d.mts",
-    "node_modules/shiki/dist/types",
     "node_modules/regex-recursion/README.md",
     "node_modules/readdirp/README.md",
     "node_modules/sass/README.md",
