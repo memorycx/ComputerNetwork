@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
-
 export default defineConfig({
   title: "计算机网络笔记",
   description: "学习记录",
+
   
   // 告诉 VitePress 你的源文件都在 docs 目录下
   srcDir: './docs',
