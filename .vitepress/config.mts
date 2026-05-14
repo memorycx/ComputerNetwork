@@ -17,6 +17,7 @@ export default defineConfig({
       {
         text: '第一章',
         items: [
+          { text: '前言', link: '/第一章/前言' },
           { text: '1.1 什么是Internet', link: '/第一章/1.1 什么是Internet' },
         ]
       }
