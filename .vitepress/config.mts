@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+
+  base:'/ComputerNetwork/',
   title: "计算机网络笔记",
   description: "学习记录",
 
